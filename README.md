@@ -29,9 +29,9 @@ I'm a seasoned Cloud DevOps Engineer with extensive experience in **Azure (IaaS,
 
 ### 🚀 Projects
 
-- **[Project 1](https://github.com/aj-20-eng/project-1)**: Description of project 1.
-- **[Project 2](https://github.com/aj-20-eng/project-2)**: Description of project 2.
-- **[Project 3](https://github.com/aj-20-eng/project-3)**: Description of project 3.
+- **[Project 1](https://github.com/aj-20-eng/project-1)**: Data Migration OnPrem to Azure using ETL Solution and Devops Method.
+- **[Project 2](https://github.com/aj-20-eng/project-2)**: End to End Automation for As-IS Infrastructutere.
+- **[Project 3](https://github.com/aj-20-eng/project-3)**: Application Deployment using Docker and AKS also setup Jenkins for CI/CD and Prometheus for Monitoring solution.
 
 ---
 
