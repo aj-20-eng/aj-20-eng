@@ -29,9 +29,50 @@ I'm a seasoned Cloud DevOps Engineer with extensive experience in **Azure (IaaS,
 
 ### 🚀 Projects
 
-- **[Project 1](https://github.com/aj-20-eng/project-1)**: Data Migration OnPrem to Azure using ETL Solution and Devops Method.
-- **[Project 2](https://github.com/aj-20-eng/project-2)**: End to End Automation for As-IS Infrastructutere.
-- **[Project 3](https://github.com/aj-20-eng/project-3)**: Application Deployment using Docker and AKS also setup Jenkins for CI/CD and Prometheus for Monitoring solution.
+Project 1: Data Migration OnPrem to Azure using ETL Solution and DevOps Method
+Stack: Azure Data Factory, Azure SQL Database, DevOps, CI/CD
+
+Project 2: End to End Automation for As-Is Infrastructure
+Stack: PowerShell, Azure CLI, Ansible, Azure Monitor
+
+Project 3: Application Deployment using Docker and AKS
+Stack: Docker, Azure Kubernetes Service (AKS), Jenkins, Prometheus, Grafana
+
+Project 4: Data Migration from Different Sources to Azure
+Stack: Azure Data Lake, Azure SQL Database, ETL, Data Migration
+
+Project 5: Azure Infrastructure as Code (IaC) using Terraform
+Stack: Terraform, Azure Resource Manager, Azure CLI
+
+Project 6: Continuous Integration and Continuous Deployment (CI/CD) with Azure DevOps
+Stack: Azure DevOps, Git, Azure App Services
+
+Project 7: Azure Kubernetes Service (AKS) Setup and Management
+Stack: Azure Kubernetes Service (AKS), Prometheus, Grafana
+
+Project 8: Azure Functions for Serverless Computing
+Stack: Azure Functions, Serverless Architecture
+
+Project 9: Azure Policy and Governance
+Stack: Azure Policy, Compliance Management
+
+Project 10: Automated Backup and Disaster Recovery on Azure
+Stack: Azure Backup, Azure Site Recovery
+
+Project 11: Azure Logic Apps for Workflow Automation
+Stack: Azure Logic Apps, Workflow Automation
+
+Project 12: Monitoring and Logging with Azure Monitor
+Stack: Azure Monitor, Log Analytics, Custom Dashboards
+
+Project 13: Azure DevTest Labs for Development and Testing
+Stack: Azure DevTest Labs, VM Templates, Cost Management
+
+Project 14: Secure Azure Infrastructure with Azure Security Center
+Stack: Azure Security Center, Threat Protection, Compliance Management
+
+Project 15: Azure Service Fabric for Microservices
+Stack: Azure Service Fabric, Microservices Architecture, Monitoring
 
 ---
 
