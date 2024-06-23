@@ -50,7 +50,7 @@ I'm a seasoned Cloud DevOps Engineer with extensive experience in **Azure (IaaS,
 ### 📫 Contact Me
 
 - **LinkedIn**: [Amit Kr Jha](https://www.linkedin.com/in/amitjhatech/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [Amit Kr Jha](mailto:akumarbce17@gmail.com)
 
 ---
 
