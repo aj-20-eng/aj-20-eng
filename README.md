@@ -1,8 +1,20 @@
 # 💻 Amit Kr Jha
 
-## 👋 Hello, World! 
+## 👋 Hello, Tech Geeks!
 
-I'm a seasoned Cloud DevOps Engineer with extensive experience in **Azure (IaaS, PaaS)**, **AWS Cloud**, **Networking (CCNA)**, **Windows OS**, and **PowerShell scripting**. I started my career in 2020 and also work as a Cloud Trainer.
+🚀 I’m a **Platform Engineer** and **Cloud Researcher** focused on building **robust, scalable, and disaster-resilient systems** that power modern, microservices-based applications across multi-cloud environments.
+
+Since starting my career in 2020, I’ve blended hands-on engineering with innovation-led research to automate infrastructure provisioning and streamline CI/CD deployments for **enterprise-grade applications**.
+
+---
+
+## 🧠 My Focus
+
+🔬 Researching resilient & secure cloud platforms  
+🧱 Designing infrastructure using **Bicep** and **Terraform**  
+📦 Automating deployment using **GitOps** with **Argo CD** & **Helm**  
+🌐 Architecting **Hub-and-Spoke** models for SaaS platforms  
+🧑‍🏫 Mentoring and delivering training on Cloud & DevOps practices
 
 ---
 
@@ -12,112 +24,86 @@ I'm a seasoned Cloud DevOps Engineer with extensive experience in **Azure (IaaS,
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-FD703D?style=for-the-badge&logo=argo&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aj-20-eng&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-20-eng&layout=compact&theme=radical)
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects Portfolio
 
-Certainly! Here are the headlines and tech stack for each project with bold formatting:
+### 🟢 Platform Automation & Infrastructure
 
----
+- **Infrastructure as Code with Bicep and Terraform**  
+  Designed reusable IaC modules for hybrid and multi-cloud deployments  
+  _Tech:_ **Azure Bicep, Terraform, Azure DevOps**
 
-### **Project 1: Data Migration OnPrem to Azure using ETL Solution and DevOps Method**
-**Stack:** **Azure Data Factory, Azure SQL Database, DevOps, CI/CD**
+- **GitOps-based Kubernetes Deployment**  
+  Fully automated containerized deployment using GitOps  
+  _Tech:_ **AKS, Argo CD, Helm, GitHub Actions**
 
-### **Project 2: End to End Automation for As-Is Infrastructure**
-**Stack:** **PowerShell, Azure CLI, Ansible, Azure Monitor**
+- **Hub & Spoke Network Topology for SaaS Platforms**  
+  Designed secure, scalable network architecture for multi-tenant platforms  
+  _Tech:_ **Azure Virtual Network, VPN Gateway, NSG, Firewall**
 
-### **Project 3: Application Deployment using Docker and AKS**
-**Stack:** **Docker, Azure Kubernetes Service (AKS), Jenkins, Prometheus, Grafana**
+### 🔵 Cloud-Native & Data Solutions
 
-### **Project 4: Data Migration from Different Sources to Azure**
-**Stack:** **Azure Data Lake, Azure SQL Database, ETL, Data Migration**
+- **ETL Data Migration from On-Prem to Azure**  
+  Migrated enterprise workloads and data pipelines  
+  _Tech:_ **ADF, Azure SQL, Azure Data Lake**
 
-### **Project 5: Azure Infrastructure as Code (IaC) using Terraform**
-**Stack:** **Terraform, Azure Resource Manager, Azure CLI**
+- **Monitoring & Observability Setup**  
+  Implemented centralized monitoring and alerting systems  
+  _Tech:_ **Azure Monitor, Log Analytics, Prometheus, Grafana**
 
-### **Project 6: Continuous Integration and Continuous Deployment (CI/CD) with Azure DevOps**
-**Stack:** **Azure DevOps, Git, Azure App Services**
-
-### **Project 7: Azure Kubernetes Service (AKS) Setup and Management**
-**Stack:** **Azure Kubernetes Service (AKS), Prometheus, Grafana**
-
-### **Project 8: Azure Functions for Serverless Computing**
-**Stack:** **Azure Functions, Serverless Architecture**
-
-### **Project 9: Azure Policy and Governance**
-**Stack:** **Azure Policy, Compliance Management**
-
-### **Project 10: Automated Backup and Disaster Recovery on Azure**
-**Stack:** **Azure Backup, Azure Site Recovery**
-
-### **Project 11: Azure Logic Apps for Workflow Automation**
-**Stack:** **Azure Logic Apps, Workflow Automation**
-
-### **Project 12: Monitoring and Logging with Azure Monitor**
-**Stack:** **Azure Monitor, Log Analytics, Custom Dashboards**
-
-### **Project 13: Azure DevTest Labs for Development and Testing**
-**Stack:** **Azure DevTest Labs, VM Templates, Cost Management**
-
-### **Project 14: Secure Azure Infrastructure with Azure Security Center**
-**Stack:** **Azure Security Center, Threat Protection, Compliance Management**
-
-### **Project 15: Azure Service Fabric for Microservices**
-**Stack:** **Azure Service Fabric, Microservices Architecture, Monitoring**
+- **Disaster Recovery & Backup Automation**  
+  Designed policies for business continuity  
+  _Tech:_ **Azure Site Recovery, Backup Vault**
 
 ---
 
+## 💼 Experience
+
+- **Cloud DevOps Engineer**  
+  _2020 – Present_  
+  - Designing Day-2 operations workflows and IaC pipelines  
+  - Collaborating with enterprise architects for scalable app delivery  
+  - Delivering advanced automation in deployment and platform engineering  
 
 ---
 
-### 💼 Experience
+## 📚 Certifications
 
-- **Cloud DevOps Engineer at Company A**  
-  _Jan 2020 - Present_  
-  Responsibilities and achievements.
-
-- **Cloud Solutions Architect at Company B**  
-  _Mar 2016 - Dec 2019_  
-  Responsibilities and achievements.
+- ✅ Microsoft Certified: Azure Solutions Architect Expert  
+- ✅ AWS Certified Solutions Architect – Associate  
+- ✅ Cisco Certified Network Associate (CCNA)  
 
 ---
 
-### 📫 Contact Me
+## 📝 Blog Highlights
 
-- **LinkedIn**: [Amit Kr Jha](https://www.linkedin.com/in/amitjhatech/)
-- **Email**: [Amit Kr Jha](mailto:akumarbce17@gmail.com)
-
----
-
-### 🎓 Certifications
-
-- **Microsoft Certified: Azure Solutions Architect Expert**
-- **AWS Certified Solutions Architect – Associate**
-- **Cisco Certified Network Associate (CCNA)**
+- **[How GitOps Changed My Cloud Deployment Strategy](https://yourblog.com/post-1)**  
+- **[Resilience by Design: Architecting for Failure in the Cloud](https://yourblog.com/post-2)**  
 
 ---
 
-### ✍️ Blog Posts
+## 📬 Let's Connect
 
-- **[Post 1](https://yourblog.com/post-1)**: Brief description of post 1.
-- **[Post 2](https://yourblog.com/post-2)**: Brief description of post 2.
+- [LinkedIn](https://www.linkedin.com/in/amitjhatech/)
+- [Email](mailto:akumarbce17@gmail.com)
 
 ---
 
-### 🤝 Let's Connect!
+## ✨ Let's Build the Future, One Platform at a Time!
 
-Feel free to reach out if you want to discuss technology, DevOps practices, or any exciting new projects. Always open to connecting with fellow tech enthusiasts!
-
+Open to collaboration, learning, and research in cloud-native architecture, DevOps tooling, and platform engineering. Let's connect and grow together in the tech ecosystem!
